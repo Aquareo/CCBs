@@ -1,0 +1,1 @@
+CCBs's daily data
