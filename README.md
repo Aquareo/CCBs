@@ -1,5 +1,5 @@
 # CCBs
-Some research on the factors of CCBs and A trading strategy 
+research on the factors of CCBs and A trading strategy 
 
 This project presents a research study focused on the selection strategy of Chinese Convertible
 Bonds (CCBs). We propose an enhanced rotational multi-factor quantitative model for CCB selection based
